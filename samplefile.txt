@@ -1,1 +1,2 @@
 this is sample file
+ Trying to do second git commit and get familiar with the git and github
